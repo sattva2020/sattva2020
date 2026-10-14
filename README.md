@@ -40,7 +40,7 @@ in a Redis queue, subscription billing, versioned public API.
 **Backend:** Python (FastAPI, Pydantic), TypeScript (Node.js, NestJS), PostgreSQL, Supabase, Redis, queues  
 **Frontend:** Next.js, React  
 **Ops:** Docker, nginx, Dokploy, Railway, CI/CD, Prometheus, Grafana, Sentry, Linux, Azure  
-**Automation:** n8n, Make, Zapier
+**Automation:** Make, Zapier
 
 ## 💬 Work with me
 
