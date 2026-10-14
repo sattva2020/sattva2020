@@ -27,12 +27,12 @@ in a Redis queue, subscription billing, versioned public API.
 
 | Project | What it is |
 |---|---|
+| [**keystone**](https://github.com/sattva2020/keystone) | Intent-first workflow plugin for Claude Code and other coding agents: change sized to process (intent → plan → independent check → implement → verify), with hook-based gates. JavaScript. |
 | [**memlab**](https://github.com/sattva2020/memlab) | Project memory for coding agents: graph-aware code retrieval + decision memory, MCP server, pre-registered benchmarks against other tools. Python. |
 | [**dokploy-mcp**](https://github.com/sattva2020/dokploy-mcp) | MCP server exposing the full Dokploy API through 4 gateway tools (~1% of context) or 500+ generated tools, with safety annotations. TypeScript. |
 | [**myhealth-mcp**](https://github.com/sattva2020/myhealth-mcp) | Self-hosted, FHIR-native MCP server for citizen-controlled health data in the EU. |
 | [**agents-md-in-the-wild**](https://github.com/sattva2020/agents-md-in-the-wild) | 480 real agent instruction files (AGENTS.md, CLAUDE.md…) from 272 top repositories, refreshed weekly, with patterns measured. Python. |
 | [**talersme**](https://github.com/sattva2020/talersme) | AI assistant that helps European SMEs integrate GNU Taler payments. |
-| [**N8N-AI-Starter-Kit-Advanced**](https://github.com/sattva2020/N8N-AI-Starter-Kit-Advanced) | Production n8n + AI services deployment: monitoring, CI/CD, disaster recovery. |
 
 ## 🛠 What I work with
 
